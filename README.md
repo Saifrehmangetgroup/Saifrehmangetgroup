@@ -1,177 +1,76 @@
-<div align="center">
+<div >
 
-# Muhammad Saif Ur Rehman
+# Hi �, I'm Muhammad Saif Ur Rehman
 
-**`Senior Backend Developer · Laravel · PHP · Node.js · Cloud & DevOps`**
+### A Dedicated Senior Backend Developer & Cloud Infrastructure Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saif-ur-rehman)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white)](https://saifrehmangetgroup.github.io/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadsaifrehman6987@gmail.com)
-[![Pakistan](https://img.shields.io/badge/🇵🇰-Lahore,%20Pakistan-16a34a?style=flat-square)](#)
+I'm a passionate backend developer with a strong foundation in distributed systems and cloud architecture, with a deep-rooted interest in scalable API design and DevOps engineering. My goal is to build high-performance, secure, and impactful applications that serve millions of users, leveraging the latest advancements in backend technology.
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### About Me:
 
-Senior Backend Developer with **6+ years** of experience building scalable, secure, and high-performance web applications trusted by **1M+ users**.
-
-I architect distributed systems, design clean REST APIs, and deploy cloud infrastructure that handles real traffic without breaking a sweat.
-
-| | |
-|---|---|
-| 🚀 **Scale** | Architected systems serving 1M+ concurrent users |
-| 🏗️ **Architecture** | Microservices, event-driven, API-first design |
-| ☁️ **Cloud** | AWS · GCP · DigitalOcean |
-| 🔐 **Security** | Auth systems, rate limiting, performance hardening |
-| 🤝 **Team** | Agile collaborator, code reviewer & mentor |
+- 🔭 I'm currently engaged in building and optimizing backend systems for social, gaming & media platforms, exploring advanced cloud services, and utilizing microservice architecture for enhanced data-driven applications. My recent focus has been on Laravel and Node.js in AWS and other powerful cloud-native tools.
+- 🌱 I am always learning and expanding my skill set, currently diving deeper into Docker orchestration, Redis caching strategies, and GCP services for a more holistic understanding of cloud-based solutions.
+- 💬 I enjoy discussing topics related to PHP, Laravel, MySQL, JavaScript (React.js, Node.js), and REST API Design. I'm also well-versed in cloud platforms such as GCP and AWS, where I work with technologies that enable scalability, real-time communication, and high availability.
+- 📫 Feel free to reach out to me at [muhammadsaifrehman6987@gmail.com](mailto:muhammadsaifrehman6987@gmail.com) for collaboration, consultation, or just a tech chat!
+- ⚡ **Fun fact:** Besides my love for coding, I believe clean code is not written — it's refactored. Exploring new architectural patterns fuels my creativity and broadens my perspective, both professionally and personally.
 
 ---
 
-## 🛠️ Tech Stack
-
-**Backend & Frameworks**
-
-![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D92B21?style=for-the-badge&logo=redis&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Frontend & Tools**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/muhammad-saif-ur-rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
 
 ---
 
-## 🏆 Key Projects
+### Technologies and Tools
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I am proficient in a variety of languages, frameworks, and tools that empower me to deliver high-quality solutions. Here are some of the key technologies I work with regularly:
 
-### 📱 Raabta App — `1M+ Users`
-> Social communication platform at enterprise scale
-
-- Designed distributed, high-availability backend
-- Deep MySQL query optimization & indexing strategies
-- Secured REST APIs with JWT auth & rate limiting
-- Zero-downtime blue-green production deployments
-
-**Stack:** `Laravel` `MySQL` `Redis` `AWS` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 Ingage.gg — `Gaming Tournament Platform`
-> Real-time competitive gaming infrastructure
-
-- Full backend service architecture from scratch
-- WebSocket-driven real-time game state workflows
-- Cloud infrastructure with automated CI/CD pipelines
-- Multi-region deployment & load balancing
-
-**Stack:** `Node.js` `MongoDB` `WebSockets` `GCP` `Nginx`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎥 Hiphop — `Short Video Platform`
-> High-throughput media streaming backend
-
-- Scalable video delivery API architecture
-- Live streaming pipeline & media processing
-- Full admin panel with analytics dashboard
-- Automated server provisioning & monitoring
-
-**Stack:** `Laravel` `FFmpeg` `MySQL` `DigitalOcean` `Nginx`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ Club92 — `Live Audio Platform`
-> Real-time audio broadcasting at scale
-
-- Low-latency real-time audio backend
-- Secure token-based session management
-- Server management & deployment automation
-- Uptime monitoring & performance alerting
-
-**Stack:** `Node.js` `WebRTC` `Redis` `AWS` `Docker`
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| 📅 **Contributions (Last Year)** | 1,822+ commits |
-| 🔥 **Current Streak** | Active |
-| 📦 **Repositories** | 5+ Public |
-| 🌐 **Profile Views** | ![Views](https://komarev.com/ghpvc/?username=Saifrehmangetgroup&color=58a6ff&style=flat-square&label=Views) |
-
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+    <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+    <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+    <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp logo"  />
+    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+    <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+    <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+    <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
+    <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
 
 ---
 
-## 💡 Engineering Philosophy
-
-> *"Build for scale from day one. Optimize with data. Secure by design. Deploy with confidence."*
-
-```
-  Clean Code        →   Readable, maintainable, reviewable
-  SOLID Principles  →   Extensible, decoupled architecture
-  API-First Design  →   Contract-driven development
-  Cloud Native      →   Resilient, observable, scalable
-  Security Mindset  →   Never an afterthought
-```
+### GitHub Analytics
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saifrehmangetgroup&theme=tokyonight" alt="GitHub Profile Details" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saifrehmangetgroup&theme=tokyonight" alt="Most Commit Language" height="180px" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saifrehmangetgroup&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px" />
+</div>
 
 ---
 
-## 📬 Get In Touch
-
-I'm open to **senior backend roles**, **technical consulting**, and **architecture discussions**.
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saif-ur-rehman)
-[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://saifrehmangetgroup.github.io/)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsaifrehman6987@gmail.com)
+### Contribution Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saifrehmangetgroup&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+</div>
 
 ---
 
 <div align="center">
-
-*⭐ Always building scalable systems &nbsp;·&nbsp; 🚀 Passionate about Backend Engineering & Cloud Architecture*
-
-`Lahore, Pakistan 🇵🇰 · Open to remote collaboration worldwide`
-
+  <img src="https://komarev.com/ghpvc/?username=Saifrehmangetgroup&color=22C55E&style=flat-square&label=Profile+Views" alt="Views" />
 </div>
