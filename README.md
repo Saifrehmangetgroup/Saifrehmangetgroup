@@ -1,231 +1,281 @@
 <div align="center">
 
-# Hi 👋, I'm Muhammad Saif Ur Rehman
+# Muhammad Saif Ur Rehman
 
-### Senior Laravel & Node.js Backend Developer
+### Senior Backend Developer · Laravel · Node.js · Cloud Infrastructure
 
-**I help startups and software agencies build, fix, deploy, and scale secure backend systems.**
+<p>
+I build, optimize, and scale secure backend systems for startups, SaaS products, mobile applications, and software agencies.
+</p>
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:muhammadsaifrehman6987@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-saif-ur-rehman)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Saifrehmangetgroup)
+<p>
+  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-22C55E?style=flat-square" alt="6+ Years Experience" />
+  <img src="https://img.shields.io/badge/Scale-1M%2B%20Users-8B5CF6?style=flat-square" alt="1M+ Users" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-0EA5E9?style=flat-square" alt="Backend and Cloud" />
+  <img src="https://img.shields.io/badge/Availability-Open%20to%20Projects-F59E0B?style=flat-square" alt="Available for Projects" />
+</p>
+
+<p>
+  <a href="mailto:muhammadsaifrehman6987@gmail.com">
+    <img src="https://img.shields.io/badge/Discuss%20a%20Project-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-saif-ur-rehman">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am a **Senior Backend and Full-Stack Developer with 6+ years of experience** building scalable, secure, and high-performance web applications.
+I am a **Senior Backend and Full-Stack Developer with 6+ years of professional experience** building secure, scalable, and high-performance applications.
 
-My main expertise is in **Laravel, PHP, Node.js, Express.js, REST APIs, MySQL, PostgreSQL, MongoDB, Redis, Linux servers, and cloud deployments**.
+My core expertise includes **Laravel, PHP, Node.js, Express.js, REST APIs, MySQL, PostgreSQL, MongoDB, Redis, Linux, Nginx, AWS, DigitalOcean, and Google Cloud**.
 
-I have contributed to social media, healthcare, gaming, e-commerce, communication, and mobile platforms, including backend systems designed to support **more than one million users**.
+I have worked on social media, healthcare, gaming, e-commerce, communication, and mobile platforms—including backend systems designed to support **more than one million users**.
 
-I work with startups, product teams, mobile developers, and software agencies that need reliable backend development, application rescue, performance optimization, API integrations, or production deployment support.
-
----
-
-## 🚀 How I Can Help
-
-* Build secure Laravel and Node.js REST APIs
-* Develop backends for web and mobile applications
-* Fix and rescue existing Laravel or Node.js projects
-* Improve slow APIs and database queries
-* Design scalable backend and database architecture
-* Configure Redis caching, queues, cron jobs, and workers
-* Integrate Stripe, PayPal, Paystack, and Flutterwave
-* Deploy applications to AWS, DigitalOcean, and GCP
-* Configure Linux, Nginx, SSL, DNS, PM2, and CI/CD
-* Migrate applications between servers or cloud providers
-* Provide ongoing application and server maintenance
+> I help businesses turn unstable, slow, or incomplete applications into reliable and scalable products.
 
 ---
 
-## 🛠️ Core Services
+## What I Deliver
 
-### Backend Development
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* Laravel and PHP application development
-* Node.js and Express.js backend development
-* RESTful API design and development
-* Microservices architecture
+### Backend Engineering
+
+* Laravel and PHP development
+* Node.js and Express.js services
+* RESTful API architecture
 * Authentication and authorization
-* Admin panels and backend dashboards
-* Third-party API integrations
+* Admin panels and dashboards
+* Third-party integrations
+* Microservices and modular systems
 
-### Application Rescue and Optimization
+</td>
+<td width="50%" valign="top">
 
-* Debugging production errors
-* Improving slow application performance
+### Performance and Reliability
+
+* Slow API diagnosis
 * Database query optimization
-* Database indexing
+* Indexing and schema improvements
 * Redis caching and queues
-* Code refactoring
-* Security and architecture reviews
-* Legacy application maintenance
+* Background jobs and schedulers
+* Production debugging
+* Legacy application refactoring
 
-### Cloud and Server Management
+</td>
+</tr>
 
-* AWS, DigitalOcean, and Google Cloud deployment
-* Linux server configuration
-* Nginx and SSL setup
-* Domain and DNS configuration
-* PM2 process management
-* Laravel queue and scheduler setup
-* CI/CD pipeline configuration
-* Monitoring, logs, and server maintenance
+<tr>
+<td width="50%" valign="top">
 
-### Payment Integrations
+### Cloud and DevOps
+
+* AWS, DigitalOcean, and GCP
+* Linux server administration
+* Nginx and SSL configuration
+* Domain and DNS management
+* PM2 and process management
+* CI/CD pipelines
+* Monitoring and log management
+
+</td>
+<td width="50%" valign="top">
+
+### Payments and Integrations
 
 * Stripe
 * PayPal
 * Paystack
 * Flutterwave
-* Webhooks
-* Subscription payments
-* Transaction and payment-status handling
+* Payment webhooks
+* Subscription workflows
+* Refund and transaction handling
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Selected Project Experience
+## Selected Experience
 
-### High-Traffic Mobile and Web Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* Helped design and deploy backend systems supporting more than **1 million users**
-* Built secure APIs for web and mobile applications
-* Improved reliability through database indexing and optimized architecture
-* Managed high-traffic production deployments and server infrastructure
+### High-Traffic Platform
+
+Designed and supported backend infrastructure for a mobile and web platform serving **1M+ users**.
+
+**Impact**
+
+* Secure web and mobile APIs
+* Database indexing and optimization
+* Scalable backend architecture
+* Production infrastructure management
+
+**Stack**
+
+`Laravel` `PHP` `MySQL` `Linux` `Nginx`
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Social Media Publishing Platform
 
-* Developed scalable APIs using Node.js and Express.js
-* Built post publishing and scheduling functionality
-* Designed PostgreSQL schemas for posts, jobs, and user activity
-* Developed services for retrieving and managing social media comments
-* Improved performance through efficient queries and structured API architecture
+Built backend services for publishing, scheduling, and managing social media content.
+
+**Impact**
+
+* Scheduled publishing workflows
+* Background job processing
+* Social media comment integration
+* Optimized PostgreSQL queries
+
+**Stack**
+
+`Node.js` `Express.js` `PostgreSQL` `REST APIs`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### Digital Healthcare Platform
 
-* Developed backend APIs using Node.js, Express.js, and PostgreSQL
-* Supported appointments, real-time consultations, and doctor-patient interactions
-* Focused on security, scalability, and private data management
-* Collaborated on React.js frontend integration
+Developed secure backend functionality for appointments, consultations, and doctor-patient interactions.
 
-### Gaming Tournament Platform
+**Impact**
 
-* Built backend APIs for tournament and gaming workflows
-* Managed cloud infrastructure and production deployment
-* Improved backend processes for real-time platform activity
+* Appointment management
+* Real-time communication support
+* Secure data handling
+* React frontend integration
 
-### Short-Video Social Platform
+**Stack**
 
-* Developed scalable backend APIs for a TikTok-style application
-* Built and managed the administration panel
-* Supported livestreaming functionality
-* Handled server provisioning, deployment, optimization, and maintenance
+`Node.js` `Express.js` `React.js` `PostgreSQL`
 
-### Live Audio Platform
+</td>
 
-* Developed and managed backend services for a Clubhouse-style platform
-* Managed application installation and production servers
-* Supported live audio and user communication workflows
+<td width="50%" valign="top">
+
+### Social and Live Platforms
+
+Developed backend systems for short-video, live-audio, gaming, and communication products.
+
+**Impact**
+
+* Livestreaming support
+* Real-time platform workflows
+* Administration panels
+* Server provisioning and maintenance
+
+**Stack**
+
+`Laravel` `Node.js` `MySQL` `Redis` `Cloud`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💻 Technologies and Tools
+## Technology Stack
+
+<div align="center">
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" alt="Backend technologies" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind,bootstrap" alt="Frontend technologies" />
-</p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" alt="Backend Skills" />
 
 ### Databases and Caching
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases and caching" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Database Skills" />
 
 ### Cloud and DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,nginx,bash,git,github,gitlab" alt="Cloud and DevOps technologies" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,nginx,bash,git,github,gitlab" alt="Cloud and DevOps Skills" />
 
-### Development Tools
+### Frontend and Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,vscode" alt="Development tools" />
-</p>
-
----
-
-## 🤝 Available for Collaboration
-
-I am available for:
-
-* Backend development projects
-* Laravel and Node.js troubleshooting
-* REST API development
-* Mobile application backends
-* Database and performance optimization
-* Cloud deployment and server migration
-* Payment gateway integrations
-* Software agency subcontracting
-* Long-term application maintenance
-* Technical consultation
-
-I am especially interested in working with:
-
-* SaaS founders
-* Software development agencies
-* Mobile application developers
-* Startups with an existing product
-* Businesses with slow or unstable applications
-* Teams that need a reliable backend development partner
-
----
-
-## 📩 Have a Backend Problem?
-
-Is your application slow, unstable, difficult to deploy, or left incomplete by a previous developer?
-
-Send me a brief description of the problem. I can review the situation and recommend a practical next step.
-
-**Email:** [muhammadsaifrehman6987@gmail.com](mailto:muhammadsaifrehman6987@gmail.com)
-
-**LinkedIn:** [Muhammad Saif Ur Rehman](https://www.linkedin.com/in/muhammad-saif-ur-rehman)
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saifrehmangetgroup&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saifrehmangetgroup&theme=tokyonight" alt="Repositories per language" height="180" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saifrehmangetgroup&theme=tokyonight" alt="Most used commit language" height="180" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saifrehmangetgroup&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind,bootstrap,postman,vscode" alt="Frontend and Development Tools" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## Backend Expertise
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Microservices-111827?style=flat-square" alt="Microservices" />
+  <img src="https://img.shields.io/badge/JWT%20%26%20OAuth-111827?style=flat-square" alt="JWT and OAuth" />
+  <img src="https://img.shields.io/badge/Laravel%20Sanctum-111827?style=flat-square" alt="Laravel Sanctum" />
+  <img src="https://img.shields.io/badge/Database%20Optimization-111827?style=flat-square" alt="Database Optimization" />
+  <img src="https://img.shields.io/badge/Redis%20Queues-111827?style=flat-square" alt="Redis Queues" />
+  <img src="https://img.shields.io/badge/Webhooks-111827?style=flat-square" alt="Webhooks" />
+  <img src="https://img.shields.io/badge/CI%2FCD-111827?style=flat-square" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Server%20Security-111827?style=flat-square" alt="Server Security" />
+  <img src="https://img.shields.io/badge/Production%20Debugging-111827?style=flat-square" alt="Production Debugging" />
+</p>
+
+---
+
+## Work With Me
+
+I collaborate with:
+
+* SaaS founders building or scaling digital products
+* Software agencies requiring dependable backend support
+* Mobile developers who need APIs and admin panels
+* Businesses with slow, unstable, or incomplete applications
+* Teams requiring cloud deployment and server management
+* Companies looking for long-term backend maintenance
+
+### Common Problems I Solve
+
+* An application is slow under production traffic
+* APIs are unstable or poorly structured
+* Database queries take too long
+* Queue workers or scheduled jobs keep failing
+* Deployment is difficult or unreliable
+* Payment webhooks are not processing correctly
+* A previous developer left the project incomplete
+* The existing backend needs refactoring before scaling
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saifrehmangetgroup&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+### Have a backend challenge?
+
+Send me a short description of your project, current technology stack, and the outcome you need.
+
+<a href="mailto:muhammadsaifrehman6987@gmail.com">
+  <img src="https://img.shields.io/badge/Start%20a%20Conversation-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a Conversation" />
+</a>
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saifrehmangetgroup&theme=tokyonight" width="100%" alt="GitHub Profile Summary" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saifrehmangetgroup&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -233,8 +283,22 @@ Send me a brief description of the problem. I can review the situation and recom
 
 <div align="center">
 
-### Let's Build Something Reliable and Scalable
+### Building secure, reliable, and scalable products
 
-<img src="https://komarev.com/ghpvc/?username=Saifrehmangetgroup&color=22C55E&style=flat-square&label=Profile+Views" alt="Profile views" />
+`Laravel` · `Node.js` · `REST APIs` · `Databases` · `Cloud Infrastructure`
+
+<br><br>
+
+<a href="mailto:muhammadsaifrehman6987@gmail.com">
+  <img src="https://img.shields.io/badge/Email-muhammadsaifrehman6987%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Address" />
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-saif-ur-rehman">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Saif%20Ur%20Rehman-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Saifrehmangetgroup&color=22C55E&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
